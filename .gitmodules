@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/Lynx1425/Lynx1425.github.io.git
+	branch = main
